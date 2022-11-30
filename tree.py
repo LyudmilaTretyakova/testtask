@@ -1,4 +1,4 @@
-class Tree:
+class Tree:# i dont use it! I wanted use it like a data structure but then I change mind to use it
     def __init__(self, cargo=None, left=None, right=None):
         self.cargo = cargo
         self.left  = left
